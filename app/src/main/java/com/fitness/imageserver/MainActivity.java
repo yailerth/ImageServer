@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
                 .into(img1);
 
         Glide.with(MainActivity.this)
-                .load("https://res.cloudinary.com/emfitnessabs/image/upload/v1611350939/samples/food/spices.jpg").into(img2);
+                .load("https://res.cloudinary.com/emfitnessabs/image/upload/v1611895280/emfitnessabs/almuerzo_s1rs4a.jpg").into(img2);
 
         Glide.with(MainActivity.this)
                 .load("https://res.cloudinary.com/emfitnessabs/image/upload/v1611350931/samples/food/pot-mussels.jpg").into(img3);
