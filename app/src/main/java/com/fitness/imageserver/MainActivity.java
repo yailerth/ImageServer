@@ -68,6 +68,7 @@ public class MainActivity extends AppCompatActivity {
         MediaController mediaController = new MediaController(this);
         mediaController.setAnchorView(video1);
         video1.setMediaController(mediaController);
+        //hola
 
 
     }
